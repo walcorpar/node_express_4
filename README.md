@@ -1,4 +1,3 @@
-cat << 'EOF' > /home/walcor/Documentos/Fullstack/backend/Modulo3/README.md
 # Desafío Evaluado - Like Me (Parte I & II) 📸
 
 Aplicación web full-stack inspirada en redes sociales para crear, visualizar, dar me gusta y eliminar publicaciones en tiempo real.
