@@ -17,7 +17,7 @@ Aplicación web full-stack inspirada en redes sociales para crear, visualizar, d
 | Método | Ruta | Descripción |
 | :--- | :--- | :--- |
 | **GET** | `/posts` | Obtiene el listado completo de publicaciones desde PostgreSQL. |
-| **POST** | `/posts` | Registra una nueva publicación[cite: 10]. |
+| **POST** | `/posts` | Registra una nueva publicación. |
 | **PUT** | `/posts/like/:id` | Incrementa el contador de me gusta del post indicado. |
 | **DELETE** | `/posts/:id` | Elimina la publicación correspondiente de PostgreSQL. |
 
